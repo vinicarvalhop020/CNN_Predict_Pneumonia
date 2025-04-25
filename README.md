@@ -21,8 +21,6 @@ CNN_PNEUMONIA/
 Métrica	Valor
 Acurácia	69.0%
 
-![Matriz de Confusão](Imgs/Confusion Matrix.png)
-
 ## Proximos Passos
 -Explorar novas arquiteturas de redes neurais convolucionais
 -Aplicar tecnicas de Data Augmentation para criar uma diversidade nos dados
